@@ -1,2 +1,3 @@
 # Demo-Game
-Let's have some with programming ;);
+This is my first Java code 
+Author- Ranvijaya
